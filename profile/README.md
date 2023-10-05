@@ -16,7 +16,7 @@ workspaces for web application process
 <div align="center">
   <a href="https://awebfactory.com">Website</a> —
   <a href="https://github.com/orgs/awebfactory/projects">Projects</a> —
-  <a href="https://github.com/orgs/awebfactory/wiki">Wiki</a>
+  <a href="https://github.com/awebfactory/.github/wiki">Wiki</a>
 </div>
 <!--
 <h3 align="center">
